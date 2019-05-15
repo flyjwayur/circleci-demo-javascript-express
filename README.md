@@ -1,7 +1,7 @@
 ![](http://res.cloudinary.com/hashnode/image/upload/w_200/v1466495663/static_imgs/mern/v2/mernio-logo.png)
 
 # mern-starter
-![title](https://travis-ci.org/Hashnode/mern-starter.svg?branch=v2.0.0)
+[![CircleCI](https://circleci.com/gh/flyjwayur/circleci-demo-javascript-express.svg?style=svg)](https://circleci.com/gh/flyjwayur/circleci-demo-javascript-express)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Discuss on Hashnode](
 https://hashnode.github.io/badges/mern.svg)](https://hashnode.com/n/mern)
